@@ -1,7 +1,5 @@
 # Submission notes
 
-Replace the placeholders below before sending.
-
 - **Live URL:** https://green-light-credit.vercel.app/
 - **Repository:** https://github.com/dhruvpandoh/GreenLight.git
 
