@@ -3,7 +3,7 @@
 - **Live URL:** https://green-light-credit.vercel.app/
 - **Repository:** https://github.com/dhruvpandoh/GreenLight
 
-## 3–5 bullets to send
+## Assumptions, Tradeoffs, and Next Steps
 
 - I assumed GreenLight is a preliminary triage tool rather than a final lending decision, so every result includes a recommended verification or human-review step.
 - I chose credit score, income, existing monthly debt, net worth, liquid assets, and requested amount because they support transparent repayment-capacity, leverage, and liquidity checks without using protected attributes.
