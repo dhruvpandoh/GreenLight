@@ -2,8 +2,8 @@
 
 Replace the placeholders below before sending.
 
-- **Live URL:** https://YOUR-PROJECT.vercel.app
-- **Repository:** https://github.com/YOUR-USERNAME/greenlight-credit
+- **Live URL:** https://green-light-credit.vercel.app/
+- **Repository:** https://github.com/dhruvpandoh/GreenLight.git
 
 ## 3–5 bullets to send
 
